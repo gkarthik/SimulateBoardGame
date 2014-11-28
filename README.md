@@ -10,5 +10,5 @@ Functions
 * runSimulation(no): Runs *no* games and generates a plot of the number of times a player lands in a position.
 * roll(dist): simulates a dice roll. Can be a biased or unbiased die based on *dist* array provided.
 
-Plots for a simulation of 1000 games with 100 rounds per game - <https://plus.google.com/photos/+KarthikG92/albums/6086582387871890641>
+Plots for 1000 simulations of a player playing 1000 games with 100 rounds per game - <https://plus.google.com/photos/+KarthikG92/albums/6086582387871890641>
 
