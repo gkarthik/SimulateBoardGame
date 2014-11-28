@@ -1,3 +1,6 @@
+================
+SimulateBoardGame
+=================
 Biased vs UnBiased dice in a board game.
 
 The idea was to see if there was a difference in the distribution of the number of times a player lands on a particular position of a board while using a biased and an unbiased die. The code generates plots with the axis as positions on a board and the y axis as the number of times the player lands on it.
